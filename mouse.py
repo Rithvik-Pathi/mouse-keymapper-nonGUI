@@ -26,8 +26,9 @@ def home():
     letter = input()
     if letter == 'h':
         print(help_message)
-    elif letter == 'q'
-        os._exit()
+    elif letter == 'q':
+       print(exit)
+       quit()
 
     
 def remap_menu():
